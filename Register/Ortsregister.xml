@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ortsregister</title>
+            <editor>
+               <forename>Ellen</forename>
+               <surname>Schaefer</surname>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Ellen Schaefer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+                  Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 Deutschland (CC BY-NC-SA 4.0 DE)
+               </licence>
+            </availability>
+            <date>05.12.2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Exil in Sanary-sur-Mer</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+               <listPlace n="Orte">
+                  <place n="1">
+                     <placeName>Buchhandlung Aboab <objectType>Symbolort</objectType></placeName>
+                     <location>
+                        <geo>43.13641, 5.75418</geo>
+                        <address>
+                           <settlement>Bandol</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="2">
+                     <placeName>Villa La Banette <objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.18251, 5.69982</geo>
+                        <address>
+                           <street>7 Allée du Château</street>
+                           <postCode>83270</postCode>
+                           <settlement>Saint-Cyr-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/117003743">Annemarie Meier-Graefe</persName>, <persName ref="https://d-nb.info/gnd/118732641">Julius Meier-Graefe</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="3">
+                     <placeName>Villa Ben Qui Hado <objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.12282, 5.79437</geo>
+                        <address>
+                           <street>363 Rondpoint de Stellamare</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/117227293">Anna Schickele</persName>, <persName ref="https://d-nb.info/gnd/117227374">Hans Schickele</persName>, <persName ref="https://d-nb.info/gnd/11860743X">René Schickele</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="4">
+                     <placeName>Chez Schwob <objectType>Café</objectType></placeName>
+                     <location>
+                        <geo>43.11786, 5.80115</geo>
+                        <address>
+                           <street>6 Quai Charles de Gaulle</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="5">
+                     <placeName>Villa La Côte<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.1166, 5.7905</geo>
+                        <address>
+                           <street>21 Chemin du Rosaire</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118577646">Ludwig Marcuse</persName>, <persName ref="https://d-nb.info/gnd/116767944">Sascha Marcuse</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="6">
+                     <placeName>Villa de l'Enclos<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11814, 5.80405</geo>
+                        <address>
+                           <street>11 Place Albert Cavet</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/11884699X">Hans Siemsen</persName>, <persName ref="116234903">Erich Klossowski</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="7">
+                     <placeName>Villa Le Fayet<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11368, 5.79313</geo>
+                        <address>
+                           <street>385 Chemin de la Colline</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118702866">Bruno Frank</persName>, <persName ref="https://d-nb.info/gnd/11670067X">Elisabeth Frank</persName>, <persName ref="https://d-nb.info/gnd/118731572">Fritzi Massary</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="8">
+                     <placeName>Friedhof<objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo>43.12068, 5.80413</geo>
+                        <address>
+                           <street>278 Avenue du 2ème Spahis</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="9">
+                     <placeName>La Gorguette<objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo>43.12897, 5.7804</geo>
+                        <address>
+                           <street>Plage de la Gorguette</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="10">
+                     <placeName>Hafen <objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo></geo>
+                        <address>
+                           <street>24 Quai Charles de Gaulle</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="11">
+                     <placeName>Villa Huley<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.1278, 5.78064</geo>
+                        <address>
+                           <street>340 Allée Thérèse</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118555081">Aldous Huxley</persName>, <persName ref="https://d-nb.info/gnd/1036914267">Maria Huxley</persName>, <persName>Matthew Huxley</persName>, <persName ref="118881280">Franz Hessel</persName>, <persName ref="https://d-nb.info/gnd/118893424">Helen Hessel</persName>, <persName ref="https://d-nb.info/gnd/1080375724">Ulrich Hessel</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="12">
+                     <placeName>Bastide Juliette<objectType>Symbolort</objectType></placeName>
+                     <location>
+                        <geo>43.15105, 5.78037</geo>
+                        <address>
+                           <postCode>82110</postCode>
+                           <settlement>Sainte-Trinide</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/124798136">Sybille Bedford</persName>, <persName ref="https://d-nb.info/gnd/119545918">Eva Hermann</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="13">
+                     <placeName>Villa Lazare<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.12319, 5.77672</geo>
+                        <address>
+                           <street>571 Boulevard de la Plage de Beaucours</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118532715">Lion Feuchtwanger</persName>, <persName ref="https://d-nb.info/gnd/118532723">Marta Feuchtwanger</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="14">
+                     <placeName>La Mairie<objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo>43.11792, 5.80188</geo>
+                        <address>
+                           <street>1 Place de la République</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="15">
+                     <placeName>Café de la Marine<objectType>Café</objectType></placeName>
+                     <location>
+                        <geo>43.11781, 5.80108</geo>
+                        <address>
+                           <street>8 Quai Charles de Gaulle</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="16">
+                     <placeName>Le Mas de la Carreirado</placeName>
+                     <location>
+                        <geo>43.11677, 5.79698</geo>
+                        <address>
+                           <street>Impasse Lou Cimaï</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118881280">Franz Hessel</persName>, <persName ref="https://d-nb.info/gnd/118893424">Helen Hessel</persName>, <persName ref="https://d-nb.info/gnd/1080375724">Ulrich Hessel</persName>, <persName ref="https://d-nb.info/gnd/118559818">Alfred Kantorowicz</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="17">
+                     <placeName>Le moulin gris<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11503, 5.79768</geo>
+                        <address>
+                           <street>9 Chemin de la Colline</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/11857633X">Alma Mahler-Werfel</persName>, <persName ref="https://d-nb.info/gnd/118631373">Franz Werfel</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="18">
+                     <placeName>Villa Le Patio<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11908, 5.78225</geo>
+                        <address>
+                           <street>132 Avenue des Pins</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/11874352X">Anton Räderscheidt</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="19">
+                     <placeName>La Place<objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo>43.11777, 5.80024</geo>
+                        <address>
+                           <street>Place de la Tour</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="20">
+                     <placeName>Villa Roge<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11825, 5.80034</geo>
+                        <address>
+                           <street>Impasse de la Prud'homie</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/119445980">Wilhelm Herzog</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="21">
+                     <placeName>Villa Les Roseaux<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.12875, 5.78139</geo>
+                        <address>
+                           <street>Chemin de la Plage</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118577123">Golo Mann</persName>, <persName ref="https://d-nb.info/gnd/115426477">William Seabrook</persName>, <persName ref="https://d-nb.info/gnd/1045331678">Marjorie Muir Worthington</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="22">
+                     <placeName>Villa Si Petite<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11635, 5.79239</geo>
+                        <address>
+                           <street>92 Boulevard Dr Raphaël Boyer</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/117467065">Lola Humm-Sernau</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="23">
+                     <placeName>Strand<objectType>Symbolort</objectType></placeName>
+                     <location>
+                        <geo>43.11524, 5.79029</geo>
+                        <address>
+                           <street>Beach Portissol</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="24">
+                     <placeName>Studio photo<objectType>Sonstiges</objectType></placeName>
+                     <location>
+                        <geo>43.11715, 5.80014</geo>
+                        <address>
+                           <street>8 Quai Marie Esmenard</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                     </location>
+                  </place>
+                  
+                  <place n="25">
+                     <placeName>Hôtel de la Tour<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11759, 5.8005</geo>
+                        <address>
+                           <street>24 Quai Charles de Gaulle</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118577158">Klaus Mann</persName>, <persName>Elisabeth Marchesani</persName>, <persName>Noberto Marchesani</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="26">
+                     <placeName>Villa La Tranquille<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11382, 5.79261</geo>
+                        <address>
+                           <street>442 Chemin de la Colline</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/124798136">Sybille Bedford</persName>, <persName ref="https://d-nb.info/gnd/119141612">Elisabeth Mann Borgese</persName>, <persName ref="https://d-nb.info/gnd/118577115">Michael Mann</persName>, <persName ref="https://d-nb.info/gnd/11857714X">Katia Mann</persName>, <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>, <persName>Elisabeth Marchesani</persName>, <persName>Noberto Marchesani</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="27">
+                     <placeName>unbenannt<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.12122, 5.79383</geo>
+                        <address>
+                           <street>117 Chemin du Diable</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/124798136">Sybille Bedford</persName></note>
+                     </location>
+                  </place>
+                  
+                  <place n="28">
+                     <placeName>Villa Valmer<objectType>Wohnort</objectType></placeName>
+                     <location>
+                        <geo>43.11783, 5.78364</geo>
+                        <address>
+                           <street>164 Boulevard Beausoleil</street>
+                           <postCode>83110</postCode>
+                           <settlement>Sanary-sur-Mer</settlement>
+                           <country>France</country>
+                        </address>
+                        <note>Wohnort von <persName ref="https://d-nb.info/gnd/118532715">Lion Feuchtwanger</persName>, <persName ref="https://d-nb.info/gnd/118532723">Marta Feuchtwanger</persName>, <persName ref="https://d-nb.info/gnd/118559818">Alfred Kantorowicz</persName>, <persName ref="https://d-nb.info/gnd/116044942">Frieda Kantorowicz</persName></note>
+                     </location>
+                  </place>
+
+               </listPlace>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

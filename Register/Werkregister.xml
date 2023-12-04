@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Werkregister</title>
+            <editor>
+               <forename>Ellen</forename>
+               <surname>Schaefer</surname>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Ellen Schaefer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+                  Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 Deutschland (CC BY-NC-SA 4.0 DE)
+               </licence>
+            </availability>
+            <date>05.12.2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Exil in Sanary-sur-Mer</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+               <listNym n="Werke">
+                  <nym>
+                     <p>
+                        <name type="work">
+                           Sybille Bedford: Aldous Huxley. A Biographie. Bd. 1: 1894–1939. London 1973
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/931831865">
+                           Ulrich Hessel: Die Autobiographie von Ulrich Hessel (Teil 2). In: Manfred Flügge (Hg.): Gesprungene Liebe. Die wahre Geschichte zu ‚Jules und Jim‘. Berlin, Weimar 1993, 218–243
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/790151588">
+                           Thomas Mann: Briefe. Bd. 1: 1889–1936. Hg. v. Erika Mann. Frankfurt a. M. 1979
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/948601272">
+                           Lion Feuchtwanger: Briefe an Eva van Hoboken. Hg. v. Notrud Gomringer. Wien 1996
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/871287161">
+                           Annette Kolb, René Schickele: Briefe im Exil 1933–1940. Hg. v. Hans Bender. Mainz 1987
+                        </name>
+                     </p>
+                  </nym>
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/850346932">
+                           Lion Feuchtwanger, Arnold Zweig: Briefwechsel 1933–1958. Bd. 1: 1933–1948. Hg. v. Harold von Hofe. Berlin, Weimar 1984
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/920343090">
+                           Lion Feuchtwanger: Briefwechsel mit Freunden. Bd. 1. Hg. v. Harold von Hofe, Sigrid Washburn. Berlin, Weimar 1991
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/891626980">
+                           Helen Hessel: C’était un brave. Eine Rede zum 10. Todestag Franz Hessels. In: Manfred Flügge (Hg.): Letzte Heimkehr nach Paris. Franz Hessel und die Seinen im Exil. Berlin 1989, S. 69–94
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/891626980">
+                           Ulrich Hessel: Ein deutscher Franzose. In: Manfred Flügge (Hg.): Letzte Heimkehr nach Paris. Franz Hessel und die Seinen im Exil. Berlin 1989, S.109–140
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/830713662">
+                           Hermann Kesten: Dichter im Café. Frankfurt a. M., Berlin, Wien 1983
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/956132782">
+                           Golo Mann: Erinnerungen und Gedanken. Lehrjahre in Frankreich. Hg. v. Hans-Martin Gauger, Wolfgang Mertz. Frankfurt a. M. 1999
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work">
+                           Alfred Kantorowicz: Exil in Frankreich. Merkwürdigkeiten und Denkwürdigkeiten. Hamburg 1983
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/958846871">
+                           Julius Meier-Graefe: Kunst ist nicht für Kunstgeschichte da. Briefe und Dokumente. Hg. v. Catherine Krahmer. Göttingen 2001
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/452390761">
+                           Hermann Kesten: Lauter Literaten. Portraits, Kritik an Zeitgenossen, Erinnerungen. München, Zürich 1966
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/910806241">
+                           Marta Feuchtwanger: Leben mit Lion. Gespräch mit Reinhart Hoffmeister in der Reihe ‚Zeugen des Jahrhunderts‘. Hg. v. Ingo Hermann. Göttingen 1991
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/453567444">
+                           Robert Neumann: Ein leichtes Leben. Bericht über mich selbst und Zeitgenossen. Wien, München, Basel 1963
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/949661465">
+                           Alma Mahler-Werfel: Mein Leben. Frankfurt a. M. 1997
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/750281189">
+                           Ludwig Marcuse: Mein zwanzigstes Jahrhundert. Auf dem Weg zu einer Autobiographie. Zürich 1975
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/979592542">
+                           Hermann Kesten: Meine Freunde, die Poeten. Zürich 2006
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/1156397138">
+                           Lion Feuchtwanger: Ein möglichst intensives Leben. Die Tagebücher. Hg. v. Nele Holdack u.a. Berlin 2018
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work">
+                           William Seabrook: No hiding place. An autobiography. Philadelphia, London, New York 1942
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/830806717">
+                           Marta Feuchtwanger: Nur eine Frau. Jahre, Tage, Stunden. München, Wien 1983
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work">
+                           Hélène Parmelin: Une passion pour Sanary. Aix-en-Provence 1980
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/947934049">
+                           Bertolt Brecht: Reisen im Exil. 1933–1949. Frankfurt a. M. 1996
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/991497953">
+                           Sybille Bedford: Rückkehr nach Sanary. Roman einer Jugend. Übersetzt v. Sigrid Ruschmeier. München 2009
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/891012214">
+                           Klaus Mann: Tagebücher. Bd. 1: 1931 bis 1933. Hg. v. Joachim Heimannsberg, Peter Laemmle, Wilfried F. Schoeller. München 1989
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="4758163-3">
+                           Thomas Mann: Tagebücher. Bd. 1: 1933–1934. Hg. v. Peter de Mendelssohn. Frankfurt a. M. 1977
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/900679816">
+                           Klaus Mann: Tagebücher. Bd. 2: 1934 bis 1935. Hg. v. Joachim Heimannsberg, Peter Laemmle, Wilfried F. Schoeller. München 1989
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/gnd/4758163-3">
+                           Thomas Mann: Tagebücher. Bd. 2: 1935–1936. Hg. v. Peter de Mendelssohn. Frankfurt a. M. 1978
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/910498679">
+                           Klaus Mann: Tagebücher. Bd. 3: 1936 bis 1937. Hg. v. Joachim Heimannsberg, Peter Laemmle, Wilfried F. Schoeller. München 1990
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/955730880">
+                           Stéphane Hessel: Tanz mit dem Jahrhundert. Erinnerungen. Übersetzt v. Roseli und Saskia Bontjes van Beek. Zürich, Hamburg 1998
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/921545819">
+                           Lion Feuchtwanger: Der Teufel in Frankreich. Erlebnisse. Tagebuch 1940. Briefe. 2. Aufl. Berlin, Weimar 1992
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/980018536">
+                           Sybille Bedford: Treibsand. Erinnerungen einer Europäerin. Übersetzt v. Matthias Fienbork. München 2006
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/453202926">
+                           Monika Mann: Vergangenes und Gegenwärtiges. Erinnerungen. München 1956
+                        </name>
+                     </p>
+                  </nym>
+
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/1171463278">
+                           Klaus Mann: Der Wendepunkt. Ein Lebensbericht. Hg. v. Frederic Kroll. Hamburg 2019
+                        </name>
+                     </p>
+                  </nym>
+                  
+                  <nym>
+                     <p>
+                        <name type="work" ref="https://d-nb.info/953040100">
+                           Brecht, Bertolt: Werke in 30 Bänden. Große kommentierte Berliner und Frankfurter Ausgabe. Bd. 28: Briefe I. Hg. v. Werner Hecht u.a. Berlin, Weimar 1998
+                        </name>
+                     </p>
+                  </nym>
+                  
+               </listNym>
+            
+         </div>
+
+      </body>
+   </text>
+</TEI>

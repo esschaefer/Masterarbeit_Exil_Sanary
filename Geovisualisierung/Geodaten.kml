@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kopie von Unbenannte Karte</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Alle Orte_ohne Namen</name>
+      <Placemark>
+        <name>21 Chemin du Rosaire</name>
+        <description>1</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7905035,43.1166014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>340 Allée Thérèse</name>
+        <description>2</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7806422,43.1278039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>363 Rond–Point de Stellamare</name>
+        <description>3</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7943744,43.1228244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>117 Chemin du Diable</name>
+        <description>4</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.793839,43.121228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>442 Chemin de la Colline</name>
+        <description>5</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.792614,43.113823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9 Chemin de la Colline</name>
+        <description>6</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7976812,43.1150334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6 Quai Charles de Gaulle</name>
+        <description>7</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8011563,43.1178686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 Quai Charles de Gaulle</name>
+        <description>8</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.801089,43.117815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 Quai Charles de Gaulle</name>
+        <description>9</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8002635,43.1176176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Place de la Tour</name>
+        <description>10</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8002441,43.1177732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1 Place de la République</name>
+        <description>11</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.801883,43.1179266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7 Allée du Château</name>
+        <description>13</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.6998211,43.18251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 Place Albert Cavet</name>
+        <description>14</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8040526,43.1181429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Impasse lou Cimai</name>
+        <description>16</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7969869,43.1167784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>164 Boulevard Beausoleil</name>
+        <description>17</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7836447,43.117838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>571 Boulevard de la Plage de Beaucours</name>
+        <description>18</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7767296,43.1231979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>132 Avenue des Pins</name>
+        <description>19</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.782255,43.1190856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beach Portissol</name>
+        <description>20</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7902984,43.1152437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hôtel de La Tour</name>
+        <description>21</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8005076,43.1175966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>385 Chemin de la Colline</name>
+        <description>23</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7931343,43.113687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bandol</name>
+        <description>24</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.754186,43.136418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Impasse de la Prud'homie]]></name>
+        <description>25</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.800343,43.1182574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plage de la Gorguette</name>
+        <description>26</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7804033,43.1289712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>92 Boulevard Dr Raphaël Boyer</name>
+        <description>27</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7923978,43.1163545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 Quai Marie Esmenard</name>
+        <description>28</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8001403,43.1171517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sainte-Trinide</name>
+        <description>12</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7803743,43.1510538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chemin de la Plage</name>
+        <description>22</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.7813916,43.1287577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>278 Av. du 2ème Spahis</name>
+        <description>15</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            5.8041344,43.1206819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

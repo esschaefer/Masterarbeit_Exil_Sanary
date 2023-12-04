@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Personenregister</title>
+            <editor>
+               <forename>Ellen</forename>
+               <surname>Schaefer</surname>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Ellen Schaefer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+                  Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 Deutschland (CC BY-NC-SA 4.0 DE)
+               </licence>
+            </availability>
+            <date>05.12.2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Exil in Sanary-sur-Mer</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <listPerson n="Namen">
+                  <person>
+                     <persName>Aboab, Frau</persName>
+                  </person>
+                  <person>
+                     <persName>Aboab, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/124798136">Bedford, Sybille</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1026072174">Beidler, Ellen Annemarie</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119512564">Beidler, Franz Wilhelm</persName>
+                  </person>
+                  <person>
+                     <persName>Benedikt, Familie</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/141405449">Binder, Sybille</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116238054">Bondy, Walter</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118514768">Brecht, Bertolt</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/">Bry, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116488271">Chapiro, Elisabeth G.</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116020628">Damert, Lilo</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1015206182">Demeter-Denis, André</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/129965006">Dernburg, Ilse</persName>
+                  </person>
+                  <person>
+                     <persName>Feuchtwanger, Berthold</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118532715">Feuchtwanger, Lion</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118532723">Feuchtwanger, Marta</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118702866">Frank, Bruno</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11670067X">Frank, Elisabeth</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11680100X">Friedländer, Paul</persName>
+                  </person>
+                  <person>
+                     <persName>Gathorne-Hardy, Edward</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1216468532">Gerson, Susi</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/122746090">Goldschmidt-Rothschild, Marie-Anne von</persName>
+                  </person>
+                  <person>
+                     <persName>Goll, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119352907">Grautoff, Christiane</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118543563">Gumbel, Emil</persName>
+                  </person>
+                  <person>
+                     <persName>Hartung, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119545918">Herrmann, Eva</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119445980">Herzog, Wilhelm</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118881280">Hessel, Franz</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118893424">Hessel, Helen</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/120532492">Hessel, Stéphane</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1080375724">Hessel, Ulrich</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1124120440">Hessel, Vitia</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11877459X">Hoboken, Anthony van</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119429810">Hoboken, Eva van</persName>
+                  </person>
+                  <person>
+                     <persName>Hollander, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117014842">Howard, Brian</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/13332219X">Huebsch, Ben</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117467065">Humm-Sernau, Lola</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118555081">Huxley, Aldous</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1036914267">Huxley, Maria</persName>
+                  </person>
+                  <person>
+                     <persName>Huxley, Matthew</persName>
+                  </person>
+                  <person>
+                     <persName>Hyan, Herr</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117140120">Joachim, Hans Arno</persName>
+                  </person>
+                  <person>
+                     <persName>Kaden, Gert</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118559818">Kantorowicz, Alfred</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116044942">Kantorowicz, Frieda</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118561715">Kesten, Hermann</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116150696">Kesten, Toni</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118562533">Kisch, Egon Erwin</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119302667">Kisling, Moïse</persName>
+                  </person>
+                  <person>
+                     <persName>Kisling, Renée</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116234903">Klossowski, Erich</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118713698">Kolb, Annette</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1080159894">Landshoff, Eva</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1232009490">Landshoff, Werner</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1100917349">Le Monnier, Henry</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118727559">Leonhard, Rudolf</persName>
+                  </person>
+                  <person>
+                     <persName>Leribaud, Pierre de</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/101902285X">Luchaire, Corinne</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1024268810">Luchaire, Julien</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118576283">Mahler, Anna</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11857633X">Mahler-Werfel, Alma</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118747436">Mann, Erika</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577123">Mann, Golo</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577131">Mann, Heinrich</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11857714X">Mann, Katia</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577158">Mann, Klaus</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577115">Mann, Michael</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116733721">Mann, Monika</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11656816X">Mann, Nelly</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577166">Mann, Thomas</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119141612">Mann Borgese, Elisabeth</persName>
+                  </person>
+                  <person>
+                     <persName>Marchesani, Elisabeth</persName>
+                  </person>
+                  <person>
+                     <persName>Marchesani, Noberto</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118577646">Marcuse, Ludwig</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116767944">Marcuse, Sascha</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118731572">Massary, Fritzi</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117003743">Meier-Graefe, Annemarie</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118732641">Meier-Graefe, Julius</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118587331">Neumann, Robert</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/140174893">Neveux, Georges</persName>
+                  </person>
+                  <person>
+                     <persName>Neveux, Jeanne</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1137234776">Neveux, Noële</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1139731971">Offenstadt, Lily</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119155842">Parmelin, Hélène</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116186305">Pinkus, Klaus</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118594648">Piscator, Erwin</persName>
+                  </person>
+                  <person>
+                     <persName>Quennell, Marcelle</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11874352X">Räderscheidt, Anton</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/116641983">Rothschild, Yvonne de</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/122651359">Sackville-West, Edward</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117227293">Schickele, Anna</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/117227374">Schickele, Hans</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11860743X">Schickele, René</persName>
+                  </person>
+                  <person>
+                     <persName>Schön, Annemarie</persName>
+                  </person>
+                  <person>
+                     <persName>Schröder, Max</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118997718">Schwarzenbach, Annemarie</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118612093">Schwarzschild, Leopold</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/115426477">Seabrook, William</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119338041">Sforza, Carlo</persName>
+                  </person>
+                  <person>
+                     <persName>Sforza, Valentine</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11884699X">Siemsen, Hans</persName>
+                  </person>
+                  <person>
+                     <persName>Solscher, Marieluise</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118616250">Spiro, Eugen</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119027615">Steffin, Margarete</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/132786028">Stieler, Hilde</persName>
+                  </person>
+                  <person>
+                     <persName>Thöny, Thea</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118757180">Thöny, Wilhelm</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118623230">Toller, Ernst</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1156335361">Valéry, Jeannie</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118625985">Valéry, Paul</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/11734155X">Vallentin-Luchaire, Antonina</persName>
+                  </person>
+                  <person>
+                     <persName>Vandervelde, Lalla</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118631373">Werfel, Franz</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118767585">Wharton, Edith</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118634674">Wolf, Friedrich</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/1045331678">Worthington, Marjorie Muir</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118637452">Zweig, Arnold</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/119370077">Zweig, Beatrice</persName>
+                  </person>
+                  <person>
+                     <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
+                  </person>
+                  
+               </listPerson>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
